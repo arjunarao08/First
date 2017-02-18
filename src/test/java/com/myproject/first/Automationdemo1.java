@@ -13,6 +13,7 @@ public class Automationdemo1
 	@Test
 	public void inputforms()
 	{
+		//this is my second commit
 		driver=new FirefoxDriver();
 		driver.get("http://www.seleniumeasy.com/test/bootstrap-date-picker-demo.html");
 		driver.manage().window().maximize();
